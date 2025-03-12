@@ -1,0 +1,5 @@
+1 Suc 5
+2 Apa 2
+3 Ciocolata 4
+4 Bere 5
+5 Jeleuri 6
